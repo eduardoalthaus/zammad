@@ -1,4 +1,4 @@
-# Bem-vindo ao Zammad
+# (PT-BR) Bem-vindo ao Zammad  [![](https://www.digitalcheck.com/wp-content/uploads/2017/02/brazil-flag-32px.jpg)]()
 
 O Zammad é um sistema de helpdesk/suporte ao cliente de código aberto baseado em Web com muitos
 recursos para gerenciar a comunicação do cliente através de vários canais, como telefone,
@@ -42,4 +42,4 @@ https://zammad.org/participate
 
 Obrigado! ❤️ ❤️ ❤️
 
- Sua equipe Zammad
+ Sua equipe Zammad [![](https://www.digitalcheck.com/wp-content/uploads/2017/03/germany-flag-32px.jpg)]()
